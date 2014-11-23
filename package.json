@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/service-workers-test/issues"
   },
-  "homepage": "https://github.com/AgtLucas/service-workers-test"
+  "homepage": "https://github.com/AgtLucas/service-workers-test",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-concat": "^2.4.2",
+    "gulp-uglify": "^1.0.1"
+  }
 }
